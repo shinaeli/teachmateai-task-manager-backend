@@ -1,0 +1,46 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "reminderText": "Complete report by Friday",
+      "description": "You are required to complete the quarterly financial report by Friday. The report should include an analysis of sales figures, expenditure breakdown, and revenue projections for the upcoming quarter. Please ensure that the report is thorough, accurate, and well-presented, as it will be reviewed by senior management. If you encounter any obstacles or require additional information, please reach out to the finance department for assistance. Your prompt attention to this task is greatly appreciated.",
+      "dueDate": "2024-04-12",
+      "isCompleted": true
+    },
+    {
+      "id": "2",
+      "reminderText": "Call client for follow-up",
+      "description": "You are assigned to call the client for a follow-up discussion regarding the progress of their project. The purpose of this call is to address any concerns, provide updates on project milestones, and gather feedback from the client. Your proactive communication and professionalism are key to ensuring client satisfaction.",
+      "dueDate": "2024-04-17",
+      "isCompleted": false
+    },
+    {
+      "id": "3",
+      "reminderText": "Review project proposal",
+      "description": "Your task is to review the project proposal submitted by the team and provide comprehensive feedback. The proposal outlines the objectives, scope, deliverables, timeline, and budget for the proposed project. Pay close attention to the project's methodology, potential risks, resource allocation, and expected outcomes. Identify any areas that require further clarification, refinement, or consideration.",
+      "dueDate": "2024-04-12",
+      "isCompleted": false
+    },
+    {
+      "id": "4",
+      "reminderText": "Send out meeting agenda",
+      "description": "Your responsibility is to prepare and distribute the meeting agenda for the upcoming [Meeting Name] scheduled on [Date]. The agenda should include a structured outline of topics to be discussed, along with allocated time slots for each agenda item. Additionally, include any pre-meeting materials or documents that participants may need to review beforehand. Your timely distribution of the meeting agenda will help participants prepare effectively and ensure that the meeting stays focused and productive.",
+      "dueDate": "2024-04-15",
+      "isCompleted": false
+    },
+    {
+      "id": "5",
+      "reminderText": "Update website content",
+      "description": "Your task is to update the content on the company website to ensure accuracy, relevance, and alignment with our current branding and messaging. This includes reviewing and refreshing existing web pages, creating new content as needed, and optimizing content for search engine visibility. Additionally, ensure consistency in tone, style, and formatting across all pages to maintain a cohesive user experience. Prioritize updating critical sections such as the homepage, product/service pages, about us, and contact information.",
+      "dueDate": "2024-04-18",
+      "isCompleted": false
+    },
+    {
+      "id": "6",
+      "reminderText": "Spend the Weekend with Family",
+      "description": "Your task is to dedicate this weekend to spending quality time with your family. Disconnect from work-related responsibilities and prioritize bonding activities with your loved ones. Use this time to engage in meaningful conversations, participate in shared hobbies or interests, and create lasting memories together.",
+      "dueDate": "2024-04-14",
+      "isCompleted": true
+    }
+  ]
+}
